@@ -1,6 +1,6 @@
 # Linked lists
 
-Studying of linked lists through various assignments in C - programming language.
+Learning about linked lists through various assignments in C - programming language.
 
 Assignments:
 #### 1. [Task 1](Task_1/Task_1.c)
