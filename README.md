@@ -20,8 +20,11 @@ Assignments:
     - Write list to file
     - Read list from file
 
-#### 3. [Task 3](task_3/README.md)
+#### 3. [Task 3](task_3/task_3.c)
+    Write a program that uses linked lists to simulate:
+    - Stack
+    - Queue
+###### *Push function takes whole randomly generated number between 10-100*
+
 #### 4. [Task 4](task_4/README.md)
 #### 5. [Task 5](task_5/README.md)
-#### 6. [Task 6](taks_6/README.md)
-#### 7. [Task 7](task_7/README.md)
