@@ -12,7 +12,7 @@ Assignments:
     - Delete particular element from linked list <br />
 ###### *Permitted usage of global variables*
 
-#### 2. [Task 2](task_2/task_2.c)
+#### 2. [Task 2](Task_2/task_2.c)
 ###### *New functionality to previous task*
     - Dinamically add new element behind particular element
     - Dinamically add new element after particular element
@@ -20,7 +20,7 @@ Assignments:
     - Write list to file
     - Read list from file
 
-#### 3. [Task 3](task_3/task_3.c)
+#### 3. [Task 3](Task_3/task_3.c)
     Write a program that uses linked lists to simulate:
     - Stack
     - Queue
